@@ -1,8 +1,8 @@
 # Javier_Miranda_Pokemon
 Proyecto base que enseña elementos basicos de una programacion en react-native, desde estructuras de carpetas, llamadas a apis, creacion de custom hooks, creacion de components entre otras.
 
-# Pasos para instalacion
-Asegurarse de clonar el proyecto mediant la url proporcionada
+# Pasos para instalación
+Asegurarse de clonar el proyecto mediante la url proporcionada
 
 Sobre el proyecto base en el terminal, dirigirse a la ruta del proyecto y ejecutar el comando: yarn install
 Esto descargara todas las librerias que vienen por defecto en un proyecto react-native
